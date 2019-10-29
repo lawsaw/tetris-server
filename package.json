@@ -2,6 +2,9 @@
   "name": "tetris-server",
   "version": "0.0.1",
   "description": "tetris-server with socket.io",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.3.0"
